@@ -1,0 +1,41 @@
+pi:
+  - name: "Dr. Ahmad Abdellatif"
+    # title: "Principal Investigator"
+    photo: "ahmad.jpg"
+    url: "https://aabdllatif.github.io"
+    email: "ahmad.abdellatif@ucalgary.ca"
+    linkedin: "https://www.linkedin.com/in/ahmad-abdellatif"
+    github: "https://github.com/aabdellatif"
+    twitter: "https://twitter.com/aabdellatif"
+
+phd:
+  - name: "Alice Smith"
+    photo: "alice.jpg"
+    url: "https://scholar.example.com/alice"
+    title: "PhD Student"
+
+  - name: "Corey Yang-Smith"
+    photo: "corey.jpg"
+    url: "https://scholar.example.com/corey"
+    title: "PhD Student"
+
+masters:
+  - name: "John Pangas"
+    photo: "john_pangas.jpg"
+    title: "Masters Student"
+
+  - name: "John Pangas"
+    photo: "john_pangas.jpg"
+    title: "Masters Student"
+
+
+undergrads:
+  - name: "Charlie Lee"
+    photo: "charlie.jpg"
+    title: "Undergraduate Student"
+
+# alumni:
+#   - name: "Dana White"
+#     program: "PhD, 2022"
+#     current: "Postdoc at XYZ University"
+#     photo: "dana.jpg"

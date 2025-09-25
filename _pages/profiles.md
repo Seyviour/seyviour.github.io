@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: People
 description: Members of the Abdellatif Group
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
