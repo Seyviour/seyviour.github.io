@@ -4,19 +4,19 @@ pi:
     photo: "ahmad.jpg"
     url: "https://aabdllatif.github.io"
     email: "ahmad.abdellatif@ucalgary.ca"
-    linkedin: "https://www.linkedin.com/in/ahmad-abdellatif"
-    github: "https://github.com/aabdellatif"
-    twitter: "https://twitter.com/aabdellatif"
+    linkedin: "https://www.linkedin.com/in/ahmad-abdellatif-8ab82a29"
+    github: "https://github.com/ahmad-abdellatif"
+    twitter: "https://twitter.com/AhmadAbdellatf"
 
 phd:
-  - name: "Alice Smith"
-    photo: "alice.jpg"
-    url: "https://scholar.example.com/alice"
-    title: "PhD Student"
+  # - name: "Alice Smith"
+  #   photo: "alice.jpg"
+  #   url: "https://scholar.example.com/alice"
+  #   title: "PhD Student"
 
   - name: "Corey Yang-Smith"
     photo: "corey.jpg"
-    url: "https://scholar.example.com/corey"
+    # url: "https://scholar.example.com/corey"
     title: "PhD Student"
 
 masters:
@@ -24,16 +24,32 @@ masters:
     photo: "john_pangas.jpg"
     title: "Masters Student"
 
-  - name: "John Pangas"
-    photo: "john_pangas.jpg"
+  - name: "Tomi Owolabi"
+    photo: "tomi_owolabi.jpg"
     title: "Masters Student"
 
 
 undergrads:
-  - name: "Charlie Lee"
-    photo: "charlie.jpg"
+  - name: "Rinad Hamid"
+    photo: "rinad_hamid.jpg"
     title: "Undergraduate Student"
 
+  - name: "Abia Jahangir"
+    photo: "abia_jahangir.jpg"
+    title: "Undergraduate Student"
+
+  - name: "Adam Yuen"
+    photo: "adam_yuen.jpg"
+    title: "Undergraduate Student"
+  
+  - name: "Neha Parmar"
+    photo: "neha_parmar.jpg"
+    title: "Undergraduate Student"
+
+  - name: "Shahed Issa"
+    photo: "shahed_issa.jpg"
+    title: "Undergraduate Student"
+  
 # alumni:
 #   - name: "Dana White"
 #     program: "PhD, 2022"

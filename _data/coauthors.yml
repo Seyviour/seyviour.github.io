@@ -1,34 +1,62 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"adam":
+  - firstname: ["Adam", "A.", "A. Y.", "Adam Yuen"]
+    # url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+  
+"abia":
+  - firstname: ["Abia", "A.", "A. J.", "Abia Jahangir"]
+    # url: https://en.wikipedia.org/wiki/Abia_Jahangir
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"corey":
+  - firstname: ["Corey", "C.", "C. Y.-S.", "Corey Yang-Smith"]
+    # url: https://en.wikipedia.org/wiki/Corey_Yang-Smith
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"john":
+  - firstname: ["John", "J.", "J. P.", "John Pangas"]
+    # url: https://en.wikipedia.org/wiki/John_Pangas
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"rinad":
+  - firstname: ["Rinad", "R.", "R. H.", "Rinad Hamid"]
+    # url: https://en.wikipedia.org/wiki/Rinad_Hamid
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"shahed":
+  - firstname: ["Shahed", "S.", "S. I.", "Shahed Issa"]
+    # url: https://en.wikipedia.org/wiki/Shahed_Issa
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"tomi":
+  - firstname: ["Tomi", "T.", "T. O.", "Tomi Owolabi"]
+    # url: https://en.wikipedia.org/wiki/Tomi_Owolabi
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"saviour":
+  - firstname: ["Saviour", "S.", "S. O.", "Saviour Owolabi"]
+    url: https://en.wikipedia.org/wiki/Saviour_Owolabi
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+# "podolsky":
+#   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+#     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+# "rosen":
+#   - firstname: ["Nathan", "N."]
+#     url: https://en.wikipedia.org/wiki/Nathan_Rosen
+
+# "bach":
+#   - firstname: ["Johann Sebastian", "J. S."]
+#     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+
+#   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+#     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+# "przibram":
+#   - firstname: ["Karl"]
+#     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+
+# "schrodinger":
+#   - firstname: ["Erwin"]
+#     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+
+# "lorentz":
+#   - firstname: ["Hendrik Antoon"]
+#     url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+
+# "planck":
+#   - firstname: ["Max"]
+#     url: https://en.wikipedia.org/wiki/Max_Planck
