@@ -9,15 +9,13 @@ pi:
     twitter: "https://twitter.com/AhmadAbdellatf"
 
 phd:
-  # - name: "Alice Smith"
-  #   photo: "alice.jpg"
-  #   url: "https://scholar.example.com/alice"
-  #   title: "PhD Student"
-
   - name: "Corey Yang-Smith"
     photo: "corey.jpg"
     # url: "https://scholar.example.com/corey"
     title: "PhD Student"
+    linkedin: "https://ca.linkedin.com/in/coreyyangsmith"
+    github: "https://github.com/coreyyangsmith"
+    twitter: "https://x.com/coreyyangsmith"
 
 masters:
   - name: "John Pangas"
@@ -25,8 +23,10 @@ masters:
     title: "Masters Student"
 
   - name: "Tomi Owolabi"
-    photo: "tomi_owolabi.jpg"
+    photo: "tomi.png"
     title: "Masters Student"
+    linkedin: "https://www.linkedin.com/in/saviour-owolabi"
+    github: "https://github.com/seyviour"
 
 
 undergrads:
@@ -38,9 +38,12 @@ undergrads:
     photo: "abia_jahangir.jpg"
     title: "Undergraduate Student"
 
+alumni:
   - name: "Adam Yuen"
-    photo: "adam_yuen.jpg"
+    photo: "adam_cropped.jpeg"
     title: "Undergraduate Student"
+    linkedin: "https://www.linkedin.com/in/adam-yuen/"
+    github: "https://github.com/SenorYuen"
   
   - name: "Neha Parmar"
     photo: "neha_parmar.jpg"
@@ -49,9 +52,3 @@ undergrads:
   - name: "Shahed Issa"
     photo: "shahed_issa.jpg"
     title: "Undergraduate Student"
-  
-# alumni:
-#   - name: "Dana White"
-#     program: "PhD, 2022"
-#     current: "Postdoc at XYZ University"
-#     photo: "dana.jpg"
