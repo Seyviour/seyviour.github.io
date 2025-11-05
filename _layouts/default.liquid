@@ -52,5 +52,10 @@
 
     <!-- JavaScripts -->
     {% include scripts.liquid %}
+
+    <!-- Simple Analytics -->
+    {% if site.enable_simpleanalytics %}
+      <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    {% endif %}
   </body>
 </html>
